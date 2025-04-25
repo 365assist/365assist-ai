@@ -1,0 +1,1 @@
+export default function Support() { return <div className="p-4"><h1 className="text-3xl font-bold mb-4">Support Center</h1><p>Submit your tickets here and get expert help with Microsoft 365 products.</p></div>; }

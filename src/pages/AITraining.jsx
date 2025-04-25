@@ -1,0 +1,1 @@
+export default function AITraining() { return <div className="p-4"><h1 className="text-3xl font-bold mb-4">AI Training Portal</h1><p>Learn how to use ChatGPT, Copilot, and AI tools to improve your work.</p></div>; }

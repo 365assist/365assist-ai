@@ -1,0 +1,1 @@
+export default function Certification() { return <div className="p-4"><h1 className="text-3xl font-bold mb-4">Certification Test</h1><p>Test your knowledge and earn your AI Power User Certificate.</p></div>; }

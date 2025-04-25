@@ -1,0 +1,1 @@
+export default function Tutorials() { return <div className="p-4"><h1 className="text-3xl font-bold mb-4">Tutorials</h1><p>Step-by-step guides and videos to boost your productivity.</p></div>; }
